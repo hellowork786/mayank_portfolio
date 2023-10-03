@@ -1,2 +1,1 @@
-# mayank_portfolio
-Analytics Portfolio
+# Data Analytics Projects in python 
